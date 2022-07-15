@@ -1,4 +1,4 @@
-# AI_digit-recognition_Group18
+# AI_digit-recognition
   Chương trình được viết bằng ngôn ngữ Python
   Trong file có chứa hai chương trình khác nhau để so sánh độ chính xác khi nhận diện bằng hai thuật toán là CNN và KNN.
   Để chạy chương trình chính sử dụng thuật toán CNN, ta chạy file Main.py ở thư mục gốc. Để tạo một model nhận dạng mới chúng ta chạy file create_model.py( Vì
